@@ -13,10 +13,14 @@
         android:theme="@style/Theme.Desafiogitegithube5ifood"
         tools:targetApi="31">
         <activity
+            android:name=".confirmacao_de_pedido"
+            android:exported="false" />
+        <activity
             android:name=".detalhes_produtos"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
