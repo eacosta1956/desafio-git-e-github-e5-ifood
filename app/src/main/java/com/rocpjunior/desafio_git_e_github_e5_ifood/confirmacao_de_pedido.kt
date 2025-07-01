@@ -2,10 +2,7 @@ package com.rocpjunior.desafio_git_e_github_e5_ifood
 
 import android.content.Intent
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.rocpjunior.desafio_git_e_github_e5_ifood.databinding.ActivityConfirmacaoDePedidoBinding
 
 class confirmacao_de_pedido : AppCompatActivity() {
@@ -19,7 +16,7 @@ class confirmacao_de_pedido : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.fabVoltar.setOnClickListener {
-            val intent = Intent(this, detalhes_produtos::class.java)
+            val intent = Intent(this, DetalhesProdutoActivity::class.java)
             startActivity(intent)
         }
     }

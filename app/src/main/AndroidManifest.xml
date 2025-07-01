@@ -16,7 +16,7 @@
             android:name=".confirmacao_de_pedido"
             android:exported="false" />
         <activity
-            android:name=".detalhes_produtos"
+            android:name=".DetalhesProdutoActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

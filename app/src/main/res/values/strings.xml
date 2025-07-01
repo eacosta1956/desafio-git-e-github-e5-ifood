@@ -4,6 +4,7 @@
     <string name="preco_total">R$ 50,00</string>
     <string name="qtd_zero">0</string>
     <string name="btn_confirmar">CONFIRMAR</string>
+    <string name="btn_voltar">Botão que volta para a tela Anterior</string>
 
     <string name="imgComboLanche">Imagem de um combo contendo um lanche, batatas chips e um Milk-Shake</string>
     <string name="txtTituloProduto">Combo Hamburguer + Batata + MilkShake</string>
