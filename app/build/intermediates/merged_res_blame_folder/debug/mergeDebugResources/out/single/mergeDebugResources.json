@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\drawable_ic_senha.png.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\drawable\\ic_senha.png"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.desafio_git_e5_ifood.app-debug-33:/layout_activity_inicial_restaurantes.xml.flat",
+        "source": "com.example.desafio_git_e5_ifood.app-main-35:/layout/activity_inicial_restaurantes.xml"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\drawable_ic_email.png.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\drawable\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\drawable_inicial_com_restaurantes.png.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\drawable\\inicial_com_restaurantes.png"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\drawable_tela_login.png.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\drawable\\tela_login.png"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\drawable_border_edittext.xml.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\drawable\\border_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\EAC\\.gradle\\daemon\\8.14.2\\com.example.desafio_git_e5_ifood.app-main-35:\\layout\\activity_main.xml"
+    }
+]

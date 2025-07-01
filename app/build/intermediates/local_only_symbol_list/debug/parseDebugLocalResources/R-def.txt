@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable border_edittext
+drawable ic_email
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_senha
+drawable inicial_com_restaurantes
+drawable tela_login
+id btnEntrar
+id editEmail
+id editSenha
+id main
+id textInputEmail
+id textInputSenha
+layout activity_inicial_restaurantes
+layout activity_login
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string botao_entrar
+string hint_email
+string hint_senha
+style Base.Theme.Desafio_Git_E5_iFood
+style Theme.Desafio_Git_E5_iFood
+xml backup_rules
+xml data_extraction_rules

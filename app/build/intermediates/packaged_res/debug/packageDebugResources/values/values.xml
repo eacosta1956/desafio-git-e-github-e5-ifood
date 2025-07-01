@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Desafio Git e Github E5 iFood</string>
+    <string name="botao_entrar">Entrar</string>
+    <string name="hint_email">Digite seu e-mail</string>
+    <string name="hint_senha">Digite sua senha</string>
+    <style name="Base.Theme.Desafio_Git_E5_iFood" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Desafio_Git_E5_iFood" parent="Base.Theme.Desafio_Git_E5_iFood"/>
+</resources>
