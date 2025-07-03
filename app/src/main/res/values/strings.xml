@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Desafio Git e Github E5 iFood</string>
+    <string name="hint_email">Digite seu e-mail</string>
+    <string name="hint_senha">Digite sua senha</string>
+    <string name="botao_entrar">Entrar</string>
+
+    <string name="botao_confirmarpedido">Confirmar Pedido</string>
+</resources>
